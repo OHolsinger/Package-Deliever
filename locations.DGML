@@ -1,0 +1,46 @@
+<DirectedGraph>
+
+<Nodes>
+<Node Id = "College Library" Bounds = "43.0768, -89.4013" />
+<Node Id = "State Street" Bounds = "43.000, -89.000"/>
+<Node Id = "Nicholas Recreational Center" Bounds = "43.0704, -89.3983" />
+<Node Id = "333 East Mall Campus" Bounds = "43.0679, -89.3992"/> 
+<Node Id = "Gordon's Dining Hall" Bounds = "43.07114, -89.3983"/>
+<Node Id = "Nitty Gritty" Bounds = "43.0718, -89.3957"/>
+<Node Id = "Memorial Union" Bounds = "43.0765, -89.3994"/>
+<Node Id = "Bascom Hall" Bounds = "43.0753, -89.4043"/>
+<Node Id = "Van Vleck" Bounds = "43.0748, -89.4048"/>
+<Node Id = "Van Hise" Bounds = "43.0756, -89.4068"/>
+<Node Id = "Agricultural Hall" Bounds = "43.0757, -89.4102"/>
+<Node Id = "Chemistry Building" Bounds = "43.0727, -89.4045"/>
+<Node Id = "Noland Hall" Bounds = "43.0715, -89.4045"/>
+<Node Id = "CS Building" Bounds = "43.0715, -89.4067"/>
+<Node Id = "Union South" Bounds = "43.0718, -89.4081"/>
+</Nodes>
+
+<Links>
+<Link Source = "College Library" Target = "Memorial Union" Priority = 3 /Link>
+<Link Source = "Memorial Union" Target = "State Street" Priority = 5 /Link>
+<Link Source = "State Street" Target = "333 East Mall Campus" Priority = 6 /Link>
+<Link Source = "333 East Mall Campus" Target = "Nicholas Recreational Center" Priority = 3 /Link>
+<Link Source = "Nicholas Recreational Center" Target = "State Street" Priority = 7 /Link>
+<Link Source = "333 East Mall Campus" Target = "Gordon's Dining Hall" Priority = 1 /Link>
+<Link Source = "Gordon's Dining Hall" Target = "Nitty Gritty" Priority = 4 /Link>
+<Link Source = "Nitty Gritty" Target = "333 East Mall Campus" Priority = 6 /Link>
+<Link Source = "333 East Mall Campus" Target = "Bascom Hall" Priority = 15 /Link>
+<Link Source = "Bascom Hall" Target = "College Library" Priority = 8 /Link>
+<Link Source = "Bascom Hall" Target = "Van Vleck" Priority = 1 /Link>
+<Link Source = "Bascom Hall" Target = "Van Hise" Priority = 3 /Link>
+<Link Source = "Van Hise" Target = "Agricultural Hall" Priority = 10 /Link>
+<Link Source = "Agricultural Hall" Target = "Bascom Hall" Priority = 16 /Link>
+<Link Source = "Van Vleck" Target = "Van Hise" Priority = 5 /Link>
+<Link Source = "Van Hise" Target = "CS Building" Priority = 12 /Link>
+<Link Source = "CS Building" Target = "Union South" Priority = 1 /Link>
+<Link Source = "Union South" Target = "Noland Hall" Priority = 10 /Link>
+<Link Source = "CS Building" Target = "Noland Hall" Priority = 4 /Link>
+<Link Source = "Noland Hall" Target = "Chemistry Building" Priority = 2 /Link>
+<Link Source = "Chemistry Building" Target = "Van Vleck" Priority = 8 /Link>
+</Links>
+
+
+</DirectedGraph>
