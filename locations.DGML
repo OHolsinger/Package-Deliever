@@ -2,112 +2,112 @@
 
 <NODES>
  <Node>
- <Id> College Library </Id>
- <XCoordinate> 43.0768 </XCoordinate>
- <YCoordinate> -89.4013 </YCoordinate>
- <Targets> Memorial Union </Targets>
+ <Id>College Library</Id>
+ <XCoordinate>43.0768</XCoordinate>
+ <YCoordinate>-89.4013</YCoordinate>
+ <Targets>Memorial Union</Targets>
  </Node>
  
  <Node>
- <Id> State Street </Id>
- <XCoordinate> 43.000 </XCoordinate>
- <YCoordinate>  -89.000 </YCoordinate>
- <Targets> 333 East Mall Campus </Targets>
+ <Id>State Street</Id>
+ <XCoordinate>43.000</XCoordinate>
+ <YCoordinate>-89.000</YCoordinate>
+ <Targets>333 East Mall Campus</Targets>
  </Node>
  
  <Node> 
- <Id> Nicholas Recreational Center </Id>
+ <Id>Nicholas Recreational Center</Id>
  <XCoordinate> 43.0704 </XCoordinate>
  <YCoordinate> -89.3983 </YCoordinate>
  <Targets> State Street </Targets>
  </Node>
  
  <Node>
- <Id> 333 East Mall Campus </Id>
- <XCoordinate> 43.0679 </XCoordinate>
- <YCoordinate> -89.3992 </YCoordinate> 
- <Targets> Nicholas Recreational Center, Gordon's Dining Hall, Bascom Hall </Targets>
+ <Id>333 East Mall Campus</Id>
+ <XCoordinate>43.0679</XCoordinate>
+ <YCoordinate>-89.3992</YCoordinate> 
+ <Targets>Nicholas Recreational Center, Gordon's Dining Hall, Bascom Hall</Targets>
  </Node>
  
  <Node>
- <Id> Gordon's Dining Hall </Id>
- <XCoordinate> 43.07114 </XCoordinate>
- <YCoordinate> -89.3983 </YCoordinate>
- <Targets> Nitty Gritty </Targets>
+ <Id>Gordon's Dining Hall</Id>
+ <XCoordinate>43.07114</XCoordinate>
+ <YCoordinate>-89.3983</YCoordinate>
+ <Targets>Nitty Gritty</Targets>
  </Node>
  
  <Node>
- <Id> Nitty Gritty </Id>
- <XCoordinate> 43.0718 </XCoordinate>
- <YCoordinate> -89.3957 </YCoordinate>
- <Targets> 333 East Mall Campus </Targets>
+ <Id>Nitty Gritty</Id>
+ <XCoordinate>43.0718</XCoordinate>
+ <YCoordinate>-89.3957</YCoordinate>
+ <Targets>333 East Mall Campus</Targets>
  </Node>
  
   <Node>
- <Id> Memorial Union </Id>
- <XCoordinate> 43.0765 </XCoordinate>
- <YCoordinate> -89.3994 </YCoordinate>
- <Targets> State Street </Targets>
+ <Id>Memorial Union</Id>
+ <XCoordinate>43.0765</XCoordinate>
+ <YCoordinate>-89.3994</YCoordinate>
+ <Targets>State Street</Targets>
  </Node>
  
   <Node>
- <Id> Bascom Hall </Id>
- <XCoordinate> 43.0753 </XCoordinate>
- <YCoordinate> -89.4043 </YCoordinate>
- <Targets> College Library, Van Vleck, Van Hise </Targets>
+ <Id>Bascom Hall</Id>
+ <XCoordinate>43.0753</XCoordinate>
+ <YCoordinate>-89.4043</YCoordinate>
+ <Targets>College Library, Van Vleck, Van Hise</Targets>
  </Node>
  
  
   <Node>
- <Id> Van Vleck </Id>
- <XCoordinate> 43.0748 </XCoordinate>
- <YCoordinate> -89.4048 </YCoordinate>
- <Targets> Van Hise </Targets>
+ <Id>Van Vleck</Id>
+ <XCoordinate>43.0748</XCoordinate>
+ <YCoordinate>-89.4048</YCoordinate>
+ <Targets>Van Hise</Targets>
  </Node>
  
  <Node>
- <Id> Van Hise </Id>
- <XCoordinate> 43.0756 </XCoordinate>
- <YCoordinate> -89.4068 </YCoordinate>
- <Targets> CS Building, Agricultural Hall </Targets>
+ <Id>Van Hise</Id>
+ <XCoordinate>43.0756</XCoordinate>
+ <YCoordinate>-89.4068</YCoordinate>
+ <Targets>CS Building, Agricultural Hall</Targets>
  </Node>
  
   
  <Node>
- <Id> Agricultural Hall </Id>
- <XCoordinate> 43.0757 </XCoordinate>
- <YCoordinate> -89.4102 </YCoordinate>
-  <Targets> Bascom Hall </Targets>
+ <Id>Agricultural Hall</Id>
+ <XCoordinate>43.0757</XCoordinate>
+ <YCoordinate>-89.4102</YCoordinate>
+  <Targets>Bascom Hall</Targets>
  </Node>
  
   <Node>
- <Id> Chemistry Building </Id>
- <XCoordinate> 43.0727 </XCoordinate>
- <YCoordinate> -89.4045 </YCoordinate>
- <Targets> Van Vleck </Targets>
+ <Id>Chemistry Building</Id>
+ <XCoordinate>43.0727</XCoordinate>
+ <YCoordinate>-89.4045</YCoordinate>
+ <Targets>Van Vleck</Targets>
  </Node>
  
  
   <Node>
- <Id> Noland Hall </Id>
- <XCoordinate> 43.0715 </XCoordinate>
- <YCoordinate> -89.4045 </YCoordinate>
- <Targets> Chemistry Building </Targets>
+ <Id>Noland Hall</Id>
+ <XCoordinate>43.0715</XCoordinate>
+ <YCoordinate>-89.4045</YCoordinate>
+ <Targets>Chemistry Building</Targets>
  </Node>
 
  <Node>
- <Id> CS Building </Id>
- <XCoordinate> 43.0715 </XCoordinate>
- <YCoordinate>  -89.4067 </YCoordinate>
- <Targets> Union South, Noland Hall </Targets>
+ <Id>CS Building</Id>
+ <XCoordinate>43.0715</XCoordinate>
+ <YCoordinate>-89.4067</YCoordinate>
+ <Targets>Union South, Noland Hall</Targets>
  </Node>
 
 
  <Node>
- <Id> Union South </Id>
- <XCoordinate> 43.0718 </XCoordinate>
- <YCoordinate> -89.4081 </YCoordinate>
- <Targets> Noland Hall </Targets>
+ <Id>Union South</Id>
+ <XCoordinate>43.0718</XCoordinate>
+ <YCoordinate>-89.4081</YCoordinate>
+ <Targets>Noland Hall</Targets>
  </Node>
 </NODES>
 
@@ -117,135 +117,135 @@
 
 <LINKS>
 <Link>
- <Source> College Library </Source>
- <Target> Memorial Union </Target>
- <Priority> 3 </Priority> 
+ <Source>College Library</Source>
+ <Target>Memorial Union</Target>
+ <Priority>3</Priority> 
  </Link>
  
  <Link>
- <Source> Memorial Union </Source>
- <Target> State Street </Target>
- <Priority> 5 </Priority> 
+ <Source>Memorial Union</Source>
+ <Target>State Street</Target>
+ <Priority>5</Priority> 
  </Link>
  
  <Link>
- <Source> State Street </Source>
- <Target> 333 East Mall Campus </Target>
- <Priority> 6 </Priority> 
+ <Source>State Street</Source>
+ <Target>333 East Mall Campus</Target>
+ <Priority>6</Priority> 
  </Link>
  
  <Link>
- <Source> 333 East Mall Campus </Source>
- <Target> Nicholas Recreational Center </Target>
- <Priority> 3 </Priority> 
+ <Source>333 East Mall Campus</Source>
+ <Target>Nicholas Recreational Center</Target>
+ <Priority>3</Priority> 
  </Link>
  
  <Link>
- <Source> Nicholas Recreational Center </Source>
- <Target> State Street </Target>
- <Priority> 7 </Priority> 
+ <Source>Nicholas Recreational Center</Source>
+ <Target>State Street</Target>
+ <Priority>7</Priority> 
  </Link>
  
  <Link>
- <Source> 333 East Mall Campus </Source>
- <Target> Gordon's Dining Hall </Target>
- <Priority> 1 </Priority> 
- </Link>
-
- <Link>
- <Source> Gordon's Dining Hall </Source>
- <Target> Nitty Gritty </Target>
- <Priority> 4 </Priority> 
- </Link>
- 
- <Link>
- <Source> Nitty Gritty </Source>
- <Target> 333 East Mall Campus </Target>
- <Priority> 6 </Priority> 
+ <Source>333 East Mall Campus</Source>
+ <Target>Gordon's Dining Hall</Target>
+ <Priority>1</Priority> 
  </Link>
 
  <Link>
- <Source> 333 East Mall Campus </Source>
- <Target> Bascom Hall </Target>
- <Priority> 15 </Priority> 
+ <Source>Gordon's Dining Hall</Source>
+ <Target>Nitty Gritty</Target>
+ <Priority>4</Priority> 
  </Link>
  
  <Link>
- <Source> Bascom Hall </Source>
- <Target> College Library </Target>
- <Priority> 8 </Priority> 
+ <Source>Nitty Gritty</Source>
+ <Target>333 East Mall Campus</Target>
+ <Priority>6</Priority> 
+ </Link>
+
+ <Link>
+ <Source>333 East Mall Campus</Source>
+ <Target>Bascom Hall</Target>
+ <Priority>15</Priority> 
  </Link>
  
  <Link>
- <Source> Bascom Hall </Source>
- <Target> Van Vleck </Target>
- <Priority> 1 </Priority> 
+ <Source>Bascom Hall</Source>
+ <Target>College Library</Target>
+ <Priority>8</Priority> 
  </Link>
  
  <Link>
- <Source> Bascom Hall </Source>
- <Target> Van Hise </Target>
- <Priority> 3 </Priority> 
+ <Source>Bascom Hall</Source>
+ <Target>Van Vleck</Target>
+ <Priority>1</Priority> 
  </Link>
  
  <Link>
- <Source> Van Hise </Source>
- <Target> Agricultural Hall </Target>
- <Priority> 10 </Priority> 
+ <Source>Bascom Hall</Source>
+ <Target>Van Hise</Target>
+ <Priority>3</Priority> 
  </Link>
  
  <Link>
- <Source> Agricultural Hall </Source>
- <Target> Bascom Hall </Target>
- <Priority> 16 </Priority> 
+ <Source>Van Hise</Source>
+ <Target>Agricultural Hall</Target>
+ <Priority>10</Priority> 
+ </Link>
+ 
+ <Link>
+ <Source>Agricultural Hall</Source>
+ <Target>Bascom Hall</Target>
+ <Priority>16</Priority> 
  </Link>
 
 
  <Link>
- <Source> Van Vleck </Source>
- <Target> Van Hise </Target>
- <Priority> 5 </Priority> 
+ <Source>Van Vleck</Source>
+ <Target>Van Hise</Target>
+ <Priority>5</Priority> 
  </Link>
  
  
  <Link>
- <Source> Van Hise </Source>
- <Target> CS Building </Target>
- <Priority> 12 </Priority> 
+ <Source>Van Hise</Source>
+ <Target>CS Building</Target>
+ <Priority>12</Priority> 
  </Link>
  
  
  <Link>
- <Source> CS Building </Source>
- <Target> Union South </Target>
- <Priority> 1 </Priority> 
+ <Source>CS Building</Source>
+ <Target>Union South</Target>
+ <Priority>1</Priority> 
  </Link>
  
  <Link>
- <Source> Union South </Source>
- <Target> Noland Hall </Target>
- <Priority> 10 </Priority> 
- </Link>
- 
- 
- <Link>
- <Source> CS Building </Source>
- <Target> Noland Hall </Target>
- <Priority> 4 </Priority> 
+ <Source>Union South</Source>
+ <Target>Noland Hall</Target>
+ <Priority>10</Priority> 
  </Link>
  
  
  <Link>
- <Source> Noland Hall </Source>
- <Target> Chemistry Building </Target>
- <Priority> 2 </Priority> 
+ <Source>CS Building</Source>
+ <Target>Noland Hall</Target>
+ <Priority>4</Priority> 
  </Link>
  
  
  <Link>
- <Source> Chemistry Building </Source>
- <Target> Van Vleck </Target>
- <Priority> 8 </Priority> 
+ <Source>Noland Hall</Source>
+ <Target>Chemistry Building</Target>
+ <Priority>2</Priority> 
+ </Link>
+ 
+ 
+ <Link>
+ <Source>Chemistry Building</Source>
+ <Target>Van Vleck</Target>
+ <Priority>8</Priority> 
  </Link>
  </LINKS>
 
