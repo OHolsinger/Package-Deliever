@@ -17,9 +17,9 @@
  
  <Node> 
  <Id>Nicholas Recreational Center</Id>
- <XCoordinate> 43.0704 </XCoordinate>
- <YCoordinate> -89.3983 </YCoordinate>
- <Targets> State Street </Targets>
+ <XCoordinate>43.0704</XCoordinate>
+ <YCoordinate>-89.3983</YCoordinate>
+ <Targets>State Street</Targets>
  </Node>
  
  <Node>
